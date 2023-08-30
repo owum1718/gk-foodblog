@@ -1,0 +1,50 @@
+ul {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
+  align-items: center;
+}
+
+li {
+  display: inline;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+  font-size: 25px;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  font-family: caligraphy;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20%;
+  width: 50%;
+  border-radius: 50%;
+}
+a {
+  color: white;
+}
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20%;
+  width: 50%;
+  box-sizing: border-box;
+  color: white;
+  font-size: 80px;
+  font-family: "Great Vibes", cursive;
+  text-align: center;
+}
+.breif {
+  font-size: 50px;
+  font-family: "Dancing Script", cursive;
+  text-align: left;
+}
